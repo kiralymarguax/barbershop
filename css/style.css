@@ -111,7 +111,7 @@ color: var(--main-title-color);
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
-line-height: 30px;
+line-height: 1.67;
 letter-spacing: 0.02em;
 color: var(--second-text-color);
 }
@@ -351,7 +351,7 @@ color: var(--second-text-color);
 .footer-link {
 font-weight: 600;
 font-size: 11px;
-line-height: 1.36x;
+line-height: 1.36;
 letter-spacing: 0.2em;
 color: var(--third-text-color);
 }
