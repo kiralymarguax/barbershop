@@ -30,17 +30,17 @@ button {
     cursor: pointer;
 }
 
-img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
 .container{
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 body {
@@ -96,9 +96,10 @@ letter-spacing: 0.02em;
 }
 
 .section-title {
-font-weight: bold;
+font-family: Raleway;
+font-weight: 700;
 font-size: 42px;
-line-height: 1.17;
+line-height: 1,17;
 letter-spacing: 0.05em; 
 }
 
@@ -218,7 +219,7 @@ color: var(--second-text-color);
 
 .about {
     padding-top: 139px;
-    padding-bottom: 129px;
+    padding-bottom: 121px;
 }
 
 .about-list {
@@ -254,6 +255,7 @@ font-size: 14px;
 line-height: 1.86;
 letter-spacing: 0.02em;
 color: var(--fourth-text-color);
+margin-bottom: 44px;
 }
 
 .about-button {
